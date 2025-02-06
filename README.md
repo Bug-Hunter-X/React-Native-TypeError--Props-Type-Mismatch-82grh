@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native error: TypeErrors resulting from prop type mismatches.  The `IncorrectPropType.js` file showcases the error, while `CorrectPropType.js` provides the solution.  This is a practical example for understanding and debugging type-related issues in React Native applications.
